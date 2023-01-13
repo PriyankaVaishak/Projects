@@ -1,0 +1,13 @@
+.heading{
+       background-color:aqua;
+       width :150%;
+       height :100px;
+}
+.heading-text{
+top:50%;
+right:50%;
+position:absolute;
+transform:transform;
+
+
+}
